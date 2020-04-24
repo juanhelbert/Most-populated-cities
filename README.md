@@ -1,10 +1,11 @@
 # The most populated cities
 
-This is a simple app that shows on a map the most populated cities in Argentina.
+This is a reactive app that shows the most populated cities in Argentina on a map.
 
-This project uses [React Leaflet](https://react-leaflet.js.org/), an open-source JavaScript library for mobile-friendly interactive maps, and [Mapbox](https://www.mapbox.com/), for the map styles. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses [React Leaflet](https://react-leaflet.js.org/) and [Mapbox](https://www.mapbox.com/).
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
